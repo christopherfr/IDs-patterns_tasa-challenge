@@ -1,5 +1,5 @@
 # The IDs Patterns (Los Patrones de los IDs)
-My solution to one of the questions of the TASA Challenge pre-selection stage. The complete test can be found [here]( https://docs.google.com/document/d/1rI5UzbvUe2KcMefqCgUwZ2qjkS3OQ0Yf3NTL-teiYz4/edit).
+This is my solution to one of the questions of the TASA Challenge pre-selection stage. The complete test can be found [here]( https://docs.google.com/document/d/1rI5UzbvUe2KcMefqCgUwZ2qjkS3OQ0Yf3NTL-teiYz4/edit).
 
 The translated question (made by [DeepL](https://www.deepl.com/translator)) is the following:
 > Last year, a client classification was performed using a segmentation algorithm and the algorithm was uploaded to the company's Git repository. Last week, they requested a count of how many customers belong to a category. Unfortunately, the segmentation algorithm was uploaded into a branch that no longer exists and was never integrated into the base code. The logic was lost and a customer type column was never saved.
